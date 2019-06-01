@@ -1,4 +1,4 @@
-"Console_T"
+﻿"Console_T"
 {
 	"### MAP CREATED BY  SHIKA  ###"
 	{
@@ -12,7 +12,7 @@
 	{
 		"chi"		"**还有五秒 **"
 	}
-	"### Boss room door now closed !!, Goodluck ###"
+	"### Boss room door now closed !!, Goodluck ###   "
 	{
 		"chi"		"** boss房间门现在关闭，咸鱼们好运！**"
 	}
@@ -42,7 +42,7 @@
 	}
 	"### DONT LET SHE FOOLS YOU  ###"
 	{
-		"chi"		"**别让他弄死你 **"
+		"chi"		"**别让他弄死你 **"   
 	}
 	"### WHEN SHE KISSES THE WALL ###"
 	{

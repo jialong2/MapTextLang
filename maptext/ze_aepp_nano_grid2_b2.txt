@@ -1,4 +1,4 @@
-"Console_T"
+﻿"Console_T"
 {
 	"** Ape Escape : Pumped & Primed **"
 	{
@@ -36,7 +36,7 @@
 	{
 		"chi"		"**还有30秒 **"
 	}
-	"** Nano Grid2 22 **"
+	"** Nano Grid2 22 **  "
 	{
 		"chi"		"** **"
 	}
